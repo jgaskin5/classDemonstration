@@ -1,1 +1,1 @@
-print('hello everyone, not just the world')
+print('hello earth')
